@@ -1,4 +1,4 @@
 server:
  port: 8090
 config:
- info: "atguigui.com version=2"
+ info: "atguigui.com version=3"
